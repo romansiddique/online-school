@@ -1,0 +1,120 @@
+.logo{
+    width: 250px;
+    height: 80px;
+}
+.navbar-and-manue{
+    background-color: #f0fff0;
+   
+}
+
+.container{
+    margin-bottom: 150px;
+}
+.btn-success{
+   
+    border-radius: 30px;
+}
+.nav-item{
+    margin-left: 10px;
+}
+.image{
+    width: 600px;
+}
+.get-font-google{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+}
+.get-started-button{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    padding: 10px 20px;
+}
+.any-schedule{
+    color: rgb(5, 204, 65);
+}
+
+.ready-to-learn{
+    color: red;
+}
+
+.first-card .style-first-card{
+    height: 100%;
+    margin-left: 20px;
+    width: 250px;
+    border: none;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.first-card-top-image{
+    height: 100px;
+    width: 80px;
+}
+
+.card-students{
+    box-shadow: 7px 7px 50px rgb(233, 222, 222);
+}
+.second-card .card{
+    margin-left: 20px;
+    border: none;
+    box-shadow: 2px 2px 15px rgb(218, 213, 213);
+    padding: 20px;
+    border-radius: 20px;
+}
+.second-card .card:hover{
+    box-shadow: 40px 40px 80px rgb(246, 238, 238);
+    transition: box-shadow 1s;
+}
+.card-footer .date p, .card-footer .seat p {
+   margin: 0;
+}
+.second-card .card-footer{
+    border: none;
+    background: none;
+}
+
+.online-text{
+    margin-bottom: 50px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+}
+
+.testimonial-mage{
+    margin-left: 0;
+}
+.testimonial-text{
+    font-family: "Ubuntu", sans-serif;
+}
+
+
+.footer{
+     margin-top: 100px;
+    height: 350px;
+    
+    background-color: rgb(37, 39, 47);
+    
+}
+.footer a{
+    text-decoration: none;
+    color: white;
+    font-family: "Ubuntu", sans-serif;
+}
+.footer h5{
+    color: white;
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+.footer .text{
+    color: white;
+    padding-left: 50px;
+}
+.footer li{
+    margin-bottom: 5px;
+}
+
+footer{
+    font-size: 12px;
+    color: white;
+    margin-top: 60px;
+}
